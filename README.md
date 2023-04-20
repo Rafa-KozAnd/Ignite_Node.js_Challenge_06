@@ -11,7 +11,7 @@
 
 Node JS challenge done with 'Rocketseat' Ignite course. ("Desafio 06 - Testes unitários")
 
-# 💻 Sobre o desafio
+## 💻 Sobre o desafio
 
 Nesse desafio, você deverá criar testes unitários para uma aplicação já pronta usando tudo que aprendeu até agora sobre testes.
 
